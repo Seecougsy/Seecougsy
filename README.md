@@ -14,6 +14,9 @@
 
 - <a href="https://github.com/Seecougsy/Data-Science-Project">Exploring Airline Delays</a> <b><i>(Data Wrangling, EDA, and Machine Learning)</b></i>
 
+- <a href="https://github.com/Seecougsy/Web-Scraper/blob/main/Caleb_Cougle_A2.ipyn">Python Web Scraper</a> <b><i>(Selenium, Beauitful Soup, Pandas)</b></i>
+
+
 <h2>🌧️ Cloud Architecture</h2>
 
 
