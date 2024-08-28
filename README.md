@@ -4,10 +4,11 @@
 
 <h2>🌐 Front-End and UX Design</h2>
 
+
 <h2>💾 Software Developement</h2>
 
 <h2>📉 Machine Learning, Algorithms, and Data Analysis </h2>
-
+ - [Exploring Airline Delays](https://github.com/Seecougsy/Data-Science-Project) <b><i>(Data Wrangling, EDA, and Machine Learning)</b></i>
 
 <h2>🌧️ Cloud Architecture </h2>
 
