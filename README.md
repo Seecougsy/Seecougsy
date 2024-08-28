@@ -9,6 +9,7 @@
 <h2>📉 Machine Learning, Algorithms, and Data Analysis</h2>
 - <a href="https://github.com/Seecougsy/Data-Science-Project">Exploring Airline Delays</a> <b><i>(Data Wrangling, EDA, and Machine Learning)</b></i>
 
+
 <h2>🌧️ Cloud Architecture</h2>
 
 <h2>🛸 Digital Design</h2>
