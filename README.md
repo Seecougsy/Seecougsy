@@ -1,16 +1,15 @@
-## Hi there 👋
+<h1>Hey, I'm Caleb! <br/></a href="https://github.com/joshmadakor1"/>Programmer</a>, </a href="https://www.linkedin.com/in/joshmadakor/">Digital Creator</a>, </a href="https://www.youtube.com/c/joshmadakor">Cloud Spinner</a></h1>
 
-<!--
-**Seecougsy/Seecougsy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h2>🖼️ Front-End and UX Design</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>📊 Machine Learning, Algorithms, and Data Analysis </h2>
+
+
+<h2>☁️ Cloud Architecture </h2>
+
+
+<h2>🎨  Digital Design </h2>
+
+
+
