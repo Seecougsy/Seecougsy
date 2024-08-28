@@ -2,6 +2,7 @@
 
 
 <h2>🌐 Front-End and UX Design</h2>
+<h2>💾 Software Developement</h2>
 
 <h2>📉 Machine Learning, Algorithms, and Data Analysis </h2>
 
