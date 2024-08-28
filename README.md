@@ -16,10 +16,9 @@
 
 <h2>🌧️ Cloud Architecture</h2>
 
-- <a href="https://github.com/Seecougsy/Cloud-Infrastructure-Project">Cloud Infrastructure Project</a> <b><i>(AWS, Azure, and GCP)</b></i>
+
 
 <h2>🛸 Digital Design</h2>
-- <a href="https://github.com/Seecougsy/Design-Portfolio">Design Portfolio</a> <b><i>(Graphic Design and Video Editing)</b></i>
 
 
 <h2>🛸 Digital Design</h2>
