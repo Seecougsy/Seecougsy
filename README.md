@@ -16,6 +16,9 @@
 
 - <a href="https://github.com/Seecougsy/Web-Scraper/blob/main/Caleb_Cougle_A2.ipyn">Python Web Scraper</a> <b><i>(Selenium, Beauitful Soup, Pandas)</b></i>
 
+- <a href="https://github.com/Seecougsy/Data-Visualisation">Python Data Visualisation</a> <b><i>(Seaborn, Matplotlib, Pandas)</b></i>
+
+
 
 <h2>🌧️ Cloud Architecture</h2>
 
