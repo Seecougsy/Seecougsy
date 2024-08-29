@@ -10,13 +10,20 @@
 
 <h2>📉 Machine Learning, Algorithms, and Data Analysis</h2>
 
-- <a href="https://github.com/Seecougsy/Search-Algorithms/blob/master/Solution_Notebook.ipynb">Uninformed Search Algorithms</a> <b><i>(Breadth First and Depth First Search)</b></i>
+- [Supper-Vision: Supervised Learning Model](https://github.com/Seecougsy/FastAI-Image-Classifier) *(C# Console App)*  
+  A machine learning model designed to classify different dishes, using supervised learning to distinguish between pavlova, lasagna, and shepherd’s pie.
 
-- <a href="https://github.com/Seecougsy/Data-Science-Project">Exploring Airline Delays</a> <b><i>(Data Wrangling, EDA, and Machine Learning)</b></i>
+- [Uninformed Search Algorithms](https://github.com/Seecougsy/Search-Algorithms/blob/master/Solution_Notebook.ipynb) *(Breadth First and Depth First Search)*  
+  Implementation of basic search algorithms to explore and solve simple search problems, focusing on uninformed methods.
 
-- <a href="https://github.com/Seecougsy/Web-Scraper/blob/main/Caleb_Cougle_A2.ipyn">Python Web Scraper</a> <b><i>(Selenium, Beauitful Soup, Pandas)</b></i>
+- [Exploring Airline Delays](https://github.com/Seecougsy/Data-Science-Project) *(Data Wrangling, EDA, and Machine Learning)*  
+  An analysis project that investigates the factors contributing to airline delays, with a focus on data wrangling and exploratory data analysis.
 
-- <a href="https://github.com/Seecougsy/Data-Visualisation">Python Data Visualisation</a> <b><i>(Seaborn, Matplotlib, Pandas)</b></i>
+- [Python Web Scraper](https://github.com/Seecougsy/Web-Scraper/blob/main/Caleb_Cougle_A2.ipyn) *(Selenium, Beautiful Soup, Pandas)*  
+  A web scraping tool that extracts data from websites, using Selenium for navigation and Beautiful Soup for data extraction.
+
+- [Python Data Visualisation](https://github.com/Seecougsy/Data-Visualisation) *(Seaborn, Matplotlib, Pandas)*  
+  A project focused on creating insightful data visualizations using popular Python libraries like Seaborn and Matplotlib.
 
 
 
