@@ -10,9 +10,12 @@
 
 <h2>📉 Machine Learning, Algorithms, and Data Analysis</h2>
 
-- [Supper-Vision: Supervised Learning Model](https://github.com/Seecougsy/FastAI-Image-Classifier) *(C# Console App)*  
+- [Supper-Vision: Supervised Learning Model](https://github.com/Seecougsy/FastAI-Image-Classifier) *(Pyhton, ML Model, Fastai)*  
   A machine learning model designed to classify different dishes, using supervised learning to distinguish between pavlova, lasagna, and shepherd’s pie.
 
+- [Try It: Supper-Vision Model on Hugging Face]( https://huggingface.co/spaces/seecougsy/Fastai-lasagne-looker) *(Hugging Face, ML model)*  
+  Trained model to try on Hugging Face.
+  
 - [Uninformed Search Algorithms](https://github.com/Seecougsy/Search-Algorithms/blob/master/Solution_Notebook.ipynb) *(Breadth First and Depth First Search)*  
   Implementation of basic search algorithms to explore and solve simple search problems, focusing on uninformed methods.
 
