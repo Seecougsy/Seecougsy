@@ -1,4 +1,9 @@
-<h1>Hey, I'm Caleb! <br/><a href="">Programmer</a>, <a /">Digital Creator</a>, <a href="">Cloud Spinner</a></h1>
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/39d95904-4168-4d07-8257-7236be71110a" style="width: 100%;">
+</p>
+
+
+
 
 <p>👨‍🔧 These files are being debugged right now—but I'm almost done.</p>
 
