@@ -8,7 +8,7 @@
 <p>👨‍🔧 These files are being debugged right now—but I'm almost done.</p>
 
 <h2>🌐 Front-End and UX Design</h2>
-
+- <a href="https://seecougsy.github.io/Nikeverse/">Nike Thhrough The Eras</a> <b><i>(C# HTML, CSS, Javascript)</b></i> https://seecougsy.github.io/Nikeverse/
 <h2>💾 Software Development</h2>
 
 - <a href="https://github.com/Seecougsy/Banking-Console-Application">Banking Application</a> <b><i>(C# Console App)</b></i>
