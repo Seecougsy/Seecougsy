@@ -10,7 +10,7 @@
 <h2>🌐 Front-End and UX Design</h2>
 
 - [Nike Through the Eras]( https://seecougsy.github.io/Nikeverse) *(HTML, CSS, Javascript)*
-- 
+- [Onestop Frontend, Chatbot]( https://seecougsy.github.io/web_onestop) *(HTML, CSS, Amazon Web Services)*
 <h2>💾 Software Development</h2>
 
 - <a href="https://github.com/Seecougsy/Banking-Console-Application">Banking Application</a> <b><i>(C# Console App)</b></i>
