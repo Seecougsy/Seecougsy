@@ -1,6 +1,5 @@
 ![Project banner](https://github.com/user-attachments/assets/39d95904-4168-4d07-8257-7236be71110a)
 
-⏳ Doing a little updating... 
 
 ## 🌐 Front-End and UX Design
 - [Nike Through the Eras](https://seecougsy.github.io/Nikeverse) *(HTML, CSS, JavaScript)*  
