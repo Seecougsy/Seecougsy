@@ -4,7 +4,7 @@
 ## 🌐 Front-End and UX Design
 - [Nike Through the Eras](https://seecougsy.github.io/Nikeverse) *(HTML, CSS, JavaScript)*  
   A scroll-based microsite showcasing Nike's brand evolution with interactive animations.
-- [Onestop Frontend, Chatbot](https://seecougsy.github.io/web_onestop) *(HTML, CSS, AWS-integrated frontend)*  
+- [Onestop Frontend, Chatbot](in progress) *(HTML, CSS, AWS-integrated frontend)*  
   A responsive web interface for a personal shopper chatbot prototype with stylised components and AWS integration.
 
 ## 💾 Software Development
